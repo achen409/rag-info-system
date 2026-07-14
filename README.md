@@ -1,1 +1,1 @@
-# rag-info-system
+# Retrieval Augmented Agent for Information Management
